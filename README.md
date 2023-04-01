@@ -4,29 +4,26 @@ This is my first year project using only c language. This project can encrypt pl
 
 Case: successful Encryption
 
-![image](https://user-images.githubusercontent.com/54031572/229315737-74e5d814-9027-4f60-a0b4-bcce41091369.png)
+
+![p1](https://user-images.githubusercontent.com/54031572/229316094-9790ba76-2327-44a6-9826-52256d941664.png)
 
 Case: Successful Decryption
 
-![image](https://user-images.githubusercontent.com/54031572/229315749-7af00753-5712-43a4-81ec-e65a937edee4.png)
+![p2](https://user-images.githubusercontent.com/54031572/229316102-2b90ed56-f0d1-466c-aba1-85d8457c147e.png)
 
 
 Case: One key is invalid
 
-![image](https://user-images.githubusercontent.com/54031572/229315759-eafabf62-0526-4cfc-b61e-e8fb527f3c3b.png)
-![image](https://user-images.githubusercontent.com/54031572/229315766-b0014561-4b72-4d10-a542-c53d4ce6104e.png)
+![p31](https://user-images.githubusercontent.com/54031572/229316112-70de208f-dc12-466e-874e-ed27ee986c8b.png)
+![p32](https://user-images.githubusercontent.com/54031572/229316114-87c0a2fb-f86a-45ac-8d5e-1c2302d87fc2.png)
+
 
 Case: Allows repetetion if needed
 
-![image](https://user-images.githubusercontent.com/54031572/229315776-06eca08c-669c-4ccf-bb73-cfed495254a6.png)
+![p4](https://user-images.githubusercontent.com/54031572/229316123-299ae90e-fbc6-464d-a4a8-3c7f1a50f4cd.png)
+
 
 Case: Termination
 
-![image](https://user-images.githubusercontent.com/54031572/229315798-263fe963-1815-41ff-aa01-0955fc9a2411.png)
+![p5](https://user-images.githubusercontent.com/54031572/229316131-f6820684-04f0-47fc-8d55-2ffb9266635f.png)
 
-
-
-
-![ss1](https://user-images.githubusercontent.com/54031572/225646391-b6b5e6d6-99ad-42c2-9fc0-4e306057a24c.png)
-![ss2](https://user-images.githubusercontent.com/54031572/225646407-f09f5e9c-a62a-455c-a96e-8e5513a963b0.png)
-![ss3](https://user-images.githubusercontent.com/54031572/225646412-e3a74e92-bf67-491d-a1b9-a41b251e23f0.png)
